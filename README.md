@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/mdwasim-github/DSA/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mdwasim-github/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mdwasim-github/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/mdwasim-github/DSA/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/mdwasim-github/DSA/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/mdwasim-github/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0221-maximal-square](https://github.com/mdwasim-github/DSA/tree/master/0221-maximal-square) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/mdwasim-github/DSA/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/mdwasim-github/DSA/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mdwasim-github/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/mdwasim-github/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/mdwasim-github/DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/mdwasim-github/DSA/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/mdwasim-github/DSA/tree/master/0392-is-subsequence) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/mdwasim-github/DSA/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/mdwasim-github/DSA/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/mdwasim-github/DSA/tree/master/0048-rotate-image) |
+| [0189-rotate-array](https://github.com/mdwasim-github/DSA/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/mdwasim-github/DSA/tree/master/0509-fibonacci-number) |
 ## Matrix
 |  |
