@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/mdwasim-github/DSA/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/mdwasim-github/DSA/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/mdwasim-github/DSA/tree/master/0733-flood-fill) |
+| [0739-daily-temperatures](https://github.com/mdwasim-github/DSA/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/mdwasim-github/DSA/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/mdwasim-github/DSA/tree/master/0912-sort-an-array) |
 | [0994-rotting-oranges](https://github.com/mdwasim-github/DSA/tree/master/0994-rotting-oranges) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/mdwasim-github/DSA/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/mdwasim-github/DSA/tree/master/0143-reorder-list) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/mdwasim-github/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0739-daily-temperatures](https://github.com/mdwasim-github/DSA/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/mdwasim-github/DSA/tree/master/0844-backspace-string-compare) |
 ## Simulation
 |  |
@@ -299,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/mdwasim-github/DSA/tree/master/0042-trapping-rain-water) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/mdwasim-github/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0739-daily-temperatures](https://github.com/mdwasim-github/DSA/tree/master/0739-daily-temperatures) |
 ## Prefix Sum
 |  |
 | ------- |
