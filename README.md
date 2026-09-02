@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/mdwasim-github/DSA/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/mdwasim-github/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/mdwasim-github/DSA/tree/master/0283-move-zeroes) |
+| [0376-wiggle-subsequence](https://github.com/mdwasim-github/DSA/tree/master/0376-wiggle-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/mdwasim-github/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/mdwasim-github/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0605-can-place-flowers](https://github.com/mdwasim-github/DSA/tree/master/0605-can-place-flowers) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0376-wiggle-subsequence](https://github.com/mdwasim-github/DSA/tree/master/0376-wiggle-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/mdwasim-github/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/mdwasim-github/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0605-can-place-flowers](https://github.com/mdwasim-github/DSA/tree/master/0605-can-place-flowers) |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0376-wiggle-subsequence](https://github.com/mdwasim-github/DSA/tree/master/0376-wiggle-subsequence) |
 | [0392-is-subsequence](https://github.com/mdwasim-github/DSA/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/mdwasim-github/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/mdwasim-github/DSA/tree/master/0509-fibonacci-number) |
