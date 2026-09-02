@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/mdwasim-github/DSA/tree/master/0283-move-zeroes) |
 | [0376-wiggle-subsequence](https://github.com/mdwasim-github/DSA/tree/master/0376-wiggle-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/mdwasim-github/DSA/tree/master/0435-non-overlapping-intervals) |
+| [0494-target-sum](https://github.com/mdwasim-github/DSA/tree/master/0494-target-sum) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/mdwasim-github/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0605-can-place-flowers](https://github.com/mdwasim-github/DSA/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/mdwasim-github/DSA/tree/master/0643-maximum-average-subarray-i) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0376-wiggle-subsequence](https://github.com/mdwasim-github/DSA/tree/master/0376-wiggle-subsequence) |
 | [0392-is-subsequence](https://github.com/mdwasim-github/DSA/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/mdwasim-github/DSA/tree/master/0435-non-overlapping-intervals) |
+| [0494-target-sum](https://github.com/mdwasim-github/DSA/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/mdwasim-github/DSA/tree/master/0509-fibonacci-number) |
 ## Sliding Window
 |  |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/mdwasim-github/DSA/tree/master/0090-subsets-ii) |
+| [0494-target-sum](https://github.com/mdwasim-github/DSA/tree/master/0494-target-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -239,4 +242,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/mdwasim-github/DSA/tree/master/0509-fibonacci-number) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/mdwasim-github/DSA/tree/master/0494-target-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/mdwasim-github/DSA/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
