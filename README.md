@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/mdwasim-github/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mdwasim-github/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/mdwasim-github/DSA/tree/master/0200-number-of-islands) |
+| [0209-minimum-size-subarray-sum](https://github.com/mdwasim-github/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/mdwasim-github/DSA/tree/master/0283-move-zeroes) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/mdwasim-github/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0605-can-place-flowers](https://github.com/mdwasim-github/DSA/tree/master/0605-can-place-flowers) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/mdwasim-github/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/mdwasim-github/DSA/tree/master/0643-maximum-average-subarray-i) |
 ## Math
 |  |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mdwasim-github/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/mdwasim-github/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/mdwasim-github/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/mdwasim-github/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0704-binary-search](https://github.com/mdwasim-github/DSA/tree/master/0704-binary-search) |
@@ -203,4 +206,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/mdwasim-github/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/mdwasim-github/DSA/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
