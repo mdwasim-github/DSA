@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/mdwasim-github/DSA/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/mdwasim-github/DSA/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/mdwasim-github/DSA/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/mdwasim-github/DSA/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/mdwasim-github/DSA/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/mdwasim-github/DSA/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/mdwasim-github/DSA/tree/master/0056-merge-intervals) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/mdwasim-github/DSA/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/mdwasim-github/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/mdwasim-github/DSA/tree/master/0090-subsets-ii) |
 | [0494-target-sum](https://github.com/mdwasim-github/DSA/tree/master/0494-target-sum) |
