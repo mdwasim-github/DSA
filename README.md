@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/mdwasim-github/DSA/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/mdwasim-github/DSA/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/mdwasim-github/DSA/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/mdwasim-github/DSA/tree/master/0064-minimum-path-sum) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/mdwasim-github/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/mdwasim-github/DSA/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/mdwasim-github/DSA/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/mdwasim-github/DSA/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mdwasim-github/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/mdwasim-github/DSA/tree/master/0042-trapping-rain-water) |
 | [0064-minimum-path-sum](https://github.com/mdwasim-github/DSA/tree/master/0064-minimum-path-sum) |
 | [0118-pascals-triangle](https://github.com/mdwasim-github/DSA/tree/master/0118-pascals-triangle) |
 | [0376-wiggle-subsequence](https://github.com/mdwasim-github/DSA/tree/master/0376-wiggle-subsequence) |
@@ -91,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/mdwasim-github/DSA/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/mdwasim-github/DSA/tree/master/0143-reorder-list) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/mdwasim-github/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0844-backspace-string-compare](https://github.com/mdwasim-github/DSA/tree/master/0844-backspace-string-compare) |
@@ -228,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/mdwasim-github/DSA/tree/master/0042-trapping-rain-water) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/mdwasim-github/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 ## Prefix Sum
 |  |
