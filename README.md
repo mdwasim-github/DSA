@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/mdwasim-github/DSA/tree/master/0048-rotate-image) |
+| [0073-set-matrix-zeroes](https://github.com/mdwasim-github/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0283-move-zeroes](https://github.com/mdwasim-github/DSA/tree/master/0283-move-zeroes) |
 | [0605-can-place-flowers](https://github.com/mdwasim-github/DSA/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/mdwasim-github/DSA/tree/master/0643-maximum-average-subarray-i) |
@@ -37,4 +38,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/mdwasim-github/DSA/tree/master/0048-rotate-image) |
+| [0073-set-matrix-zeroes](https://github.com/mdwasim-github/DSA/tree/master/0073-set-matrix-zeroes) |
+## Hash Table
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/mdwasim-github/DSA/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
