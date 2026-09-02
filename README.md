@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/mdwasim-github/DSA/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/mdwasim-github/DSA/tree/master/0073-set-matrix-zeroes) |
+| [0200-number-of-islands](https://github.com/mdwasim-github/DSA/tree/master/0200-number-of-islands) |
 | [0283-move-zeroes](https://github.com/mdwasim-github/DSA/tree/master/0283-move-zeroes) |
 | [0605-can-place-flowers](https://github.com/mdwasim-github/DSA/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/mdwasim-github/DSA/tree/master/0643-maximum-average-subarray-i) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/mdwasim-github/DSA/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/mdwasim-github/DSA/tree/master/0073-set-matrix-zeroes) |
+| [0200-number-of-islands](https://github.com/mdwasim-github/DSA/tree/master/0200-number-of-islands) |
 ## Hash Table
 |  |
 | ------- |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/mdwasim-github/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0133-clone-graph](https://github.com/mdwasim-github/DSA/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/mdwasim-github/DSA/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/mdwasim-github/DSA/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/mdwasim-github/DSA/tree/master/0207-course-schedule) |
 ## Binary Tree
 |  |
@@ -110,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0133-clone-graph](https://github.com/mdwasim-github/DSA/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/mdwasim-github/DSA/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/mdwasim-github/DSA/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/mdwasim-github/DSA/tree/master/0207-course-schedule) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/mdwasim-github/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/mdwasim-github/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -146,4 +150,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/mdwasim-github/DSA/tree/master/0207-course-schedule) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/mdwasim-github/DSA/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
