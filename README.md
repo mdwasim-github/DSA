@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/mdwasim-github/DSA/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/mdwasim-github/DSA/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/mdwasim-github/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/mdwasim-github/DSA/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/mdwasim-github/DSA/tree/master/0079-word-search) |
 | [0344-reverse-string](https://github.com/mdwasim-github/DSA/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/mdwasim-github/DSA/tree/master/0392-is-subsequence) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/mdwasim-github/DSA/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/mdwasim-github/DSA/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/mdwasim-github/DSA/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/mdwasim-github/DSA/tree/master/0064-minimum-path-sum) |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/mdwasim-github/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/mdwasim-github/DSA/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/mdwasim-github/DSA/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/mdwasim-github/DSA/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/mdwasim-github/DSA/tree/master/0078-subsets) |
@@ -321,4 +324,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/mdwasim-github/DSA/tree/master/0494-target-sum) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/mdwasim-github/DSA/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
