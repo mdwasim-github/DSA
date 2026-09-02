@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/mdwasim-github/DSA/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/mdwasim-github/DSA/tree/master/0392-is-subsequence) |
 | [0844-backspace-string-compare](https://github.com/mdwasim-github/DSA/tree/master/0844-backspace-string-compare) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/mdwasim-github/DSA/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1528-shuffle-string](https://github.com/mdwasim-github/DSA/tree/master/1528-shuffle-string) |
 | [1768-merge-strings-alternately](https://github.com/mdwasim-github/DSA/tree/master/1768-merge-strings-alternately) |
 ## Dynamic Programming
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/mdwasim-github/DSA/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/mdwasim-github/DSA/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/mdwasim-github/DSA/tree/master/0509-fibonacci-number) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/mdwasim-github/DSA/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Matrix
 |  |
 | ------- |
@@ -338,4 +340,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/mdwasim-github/DSA/tree/master/0075-sort-colors) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/mdwasim-github/DSA/tree/master/1071-greatest-common-divisor-of-strings) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/mdwasim-github/DSA/tree/master/1071-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->
