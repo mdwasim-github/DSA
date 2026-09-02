@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/mdwasim-github/DSA/tree/master/0733-flood-fill) |
 | [0875-koko-eating-bananas](https://github.com/mdwasim-github/DSA/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/mdwasim-github/DSA/tree/master/0912-sort-an-array) |
+| [0994-rotting-oranges](https://github.com/mdwasim-github/DSA/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/mdwasim-github/DSA/tree/master/0997-find-the-town-judge) |
 | [1004-max-consecutive-ones-iii](https://github.com/mdwasim-github/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1528-shuffle-string](https://github.com/mdwasim-github/DSA/tree/master/1528-shuffle-string) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/mdwasim-github/DSA/tree/master/0221-maximal-square) |
 | [0695-max-area-of-island](https://github.com/mdwasim-github/DSA/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/mdwasim-github/DSA/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/mdwasim-github/DSA/tree/master/0994-rotting-oranges) |
 ## Hash Table
 |  |
 | ------- |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/mdwasim-github/DSA/tree/master/0207-course-schedule) |
 | [0695-max-area-of-island](https://github.com/mdwasim-github/DSA/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/mdwasim-github/DSA/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/mdwasim-github/DSA/tree/master/0994-rotting-oranges) |
 ## Binary Tree
 |  |
 | ------- |
