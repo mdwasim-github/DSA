@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/mdwasim-github/DSA/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/mdwasim-github/DSA/tree/master/0048-rotate-image) |
 ## Matrix
 |  |
@@ -57,4 +58,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/mdwasim-github/DSA/tree/master/0844-backspace-string-compare) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/mdwasim-github/DSA/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/mdwasim-github/DSA/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
