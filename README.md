@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/mdwasim-github/DSA/tree/master/0283-move-zeroes) |
 | [0605-can-place-flowers](https://github.com/mdwasim-github/DSA/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/mdwasim-github/DSA/tree/master/0643-maximum-average-subarray-i) |
+| [0912-sort-an-array](https://github.com/mdwasim-github/DSA/tree/master/0912-sort-an-array) |
 | [0997-find-the-town-judge](https://github.com/mdwasim-github/DSA/tree/master/0997-find-the-town-judge) |
 | [1528-shuffle-string](https://github.com/mdwasim-github/DSA/tree/master/1528-shuffle-string) |
 ## Greedy
@@ -154,4 +155,32 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/mdwasim-github/DSA/tree/master/0200-number-of-islands) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/mdwasim-github/DSA/tree/master/0912-sort-an-array) |
+## Sorting
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/mdwasim-github/DSA/tree/master/0912-sort-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/mdwasim-github/DSA/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/mdwasim-github/DSA/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/mdwasim-github/DSA/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/mdwasim-github/DSA/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/mdwasim-github/DSA/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
