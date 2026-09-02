@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/mdwasim-github/DSA/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/mdwasim-github/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/mdwasim-github/DSA/tree/master/0283-move-zeroes) |
+| [0435-non-overlapping-intervals](https://github.com/mdwasim-github/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/mdwasim-github/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0605-can-place-flowers](https://github.com/mdwasim-github/DSA/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/mdwasim-github/DSA/tree/master/0643-maximum-average-subarray-i) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0435-non-overlapping-intervals](https://github.com/mdwasim-github/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/mdwasim-github/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0605-can-place-flowers](https://github.com/mdwasim-github/DSA/tree/master/0605-can-place-flowers) |
 ## Two Pointers
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/mdwasim-github/DSA/tree/master/0392-is-subsequence) |
+| [0435-non-overlapping-intervals](https://github.com/mdwasim-github/DSA/tree/master/0435-non-overlapping-intervals) |
 ## Sliding Window
 |  |
 | ------- |
@@ -181,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/mdwasim-github/DSA/tree/master/0056-merge-intervals) |
+| [0435-non-overlapping-intervals](https://github.com/mdwasim-github/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/mdwasim-github/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0912-sort-an-array](https://github.com/mdwasim-github/DSA/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
