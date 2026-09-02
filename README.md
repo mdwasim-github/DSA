@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/mdwasim-github/DSA/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/mdwasim-github/DSA/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/mdwasim-github/DSA/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/mdwasim-github/DSA/tree/master/0048-rotate-image) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/mdwasim-github/DSA/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/mdwasim-github/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0133-clone-graph](https://github.com/mdwasim-github/DSA/tree/master/0133-clone-graph) |
 | [0141-linked-list-cycle](https://github.com/mdwasim-github/DSA/tree/master/0141-linked-list-cycle) |
