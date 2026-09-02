@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/mdwasim-github/DSA/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/mdwasim-github/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/mdwasim-github/DSA/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/mdwasim-github/DSA/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/mdwasim-github/DSA/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/mdwasim-github/DSA/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/mdwasim-github/DSA/tree/master/0136-single-number) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/mdwasim-github/DSA/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/mdwasim-github/DSA/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/mdwasim-github/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0079-word-search](https://github.com/mdwasim-github/DSA/tree/master/0079-word-search) |
 | [0344-reverse-string](https://github.com/mdwasim-github/DSA/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/mdwasim-github/DSA/tree/master/0392-is-subsequence) |
 | [0844-backspace-string-compare](https://github.com/mdwasim-github/DSA/tree/master/0844-backspace-string-compare) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/mdwasim-github/DSA/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/mdwasim-github/DSA/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/mdwasim-github/DSA/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/mdwasim-github/DSA/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/mdwasim-github/DSA/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/mdwasim-github/DSA/tree/master/0221-maximal-square) |
 | [0695-max-area-of-island](https://github.com/mdwasim-github/DSA/tree/master/0695-max-area-of-island) |
@@ -187,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/mdwasim-github/DSA/tree/master/0079-word-search) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/mdwasim-github/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0133-clone-graph](https://github.com/mdwasim-github/DSA/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/mdwasim-github/DSA/tree/master/0199-binary-tree-right-side-view) |
@@ -293,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/mdwasim-github/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0046-permutations](https://github.com/mdwasim-github/DSA/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/mdwasim-github/DSA/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/mdwasim-github/DSA/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/mdwasim-github/DSA/tree/master/0090-subsets-ii) |
 | [0494-target-sum](https://github.com/mdwasim-github/DSA/tree/master/0494-target-sum) |
 ## Bit Manipulation
