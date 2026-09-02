@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/mdwasim-github/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0090-subsets-ii](https://github.com/mdwasim-github/DSA/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/mdwasim-github/DSA/tree/master/0118-pascals-triangle) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/mdwasim-github/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mdwasim-github/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/mdwasim-github/DSA/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/mdwasim-github/DSA/tree/master/0209-minimum-size-subarray-sum) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/mdwasim-github/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mdwasim-github/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/mdwasim-github/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/mdwasim-github/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
