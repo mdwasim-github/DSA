@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/mdwasim-github/DSA/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/mdwasim-github/DSA/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/mdwasim-github/DSA/tree/master/0073-set-matrix-zeroes) |
+| [0078-subsets](https://github.com/mdwasim-github/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/mdwasim-github/DSA/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/mdwasim-github/DSA/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/mdwasim-github/DSA/tree/master/0136-single-number) |
@@ -286,11 +287,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/mdwasim-github/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/mdwasim-github/DSA/tree/master/0090-subsets-ii) |
 | [0494-target-sum](https://github.com/mdwasim-github/DSA/tree/master/0494-target-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/mdwasim-github/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/mdwasim-github/DSA/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/mdwasim-github/DSA/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/mdwasim-github/DSA/tree/master/0191-number-of-1-bits) |
