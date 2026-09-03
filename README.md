@@ -356,4 +356,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/mdwasim-github/DSA/tree/master/1071-greatest-common-divisor-of-strings) |
+## Concurrency
+|  |
+| ------- |
+| [1116-print-zero-even-odd](https://github.com/mdwasim-github/DSA/tree/master/1116-print-zero-even-odd) |
 <!---LeetCode Topics End-->
