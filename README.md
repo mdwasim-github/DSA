@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/mdwasim-github/DSA/tree/master/0221-maximal-square) |
 | [0238-product-of-array-except-self](https://github.com/mdwasim-github/DSA/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/mdwasim-github/DSA/tree/master/0283-move-zeroes) |
+| [0334-increasing-triplet-subsequence](https://github.com/mdwasim-github/DSA/tree/master/0334-increasing-triplet-subsequence) |
 | [0376-wiggle-subsequence](https://github.com/mdwasim-github/DSA/tree/master/0376-wiggle-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/mdwasim-github/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/mdwasim-github/DSA/tree/master/0494-target-sum) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/mdwasim-github/DSA/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/mdwasim-github/DSA/tree/master/0055-jump-game) |
+| [0334-increasing-triplet-subsequence](https://github.com/mdwasim-github/DSA/tree/master/0334-increasing-triplet-subsequence) |
 | [0376-wiggle-subsequence](https://github.com/mdwasim-github/DSA/tree/master/0376-wiggle-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/mdwasim-github/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/mdwasim-github/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -360,4 +362,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1116-print-zero-even-odd](https://github.com/mdwasim-github/DSA/tree/master/1116-print-zero-even-odd) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/mdwasim-github/DSA/tree/master/0334-increasing-triplet-subsequence) |
 <!---LeetCode Topics End-->
