@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/mdwasim-github/DSA/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/mdwasim-github/DSA/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/mdwasim-github/DSA/tree/master/0189-rotate-array) |
+| [0367-valid-perfect-square](https://github.com/mdwasim-github/DSA/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/mdwasim-github/DSA/tree/master/0509-fibonacci-number) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/mdwasim-github/DSA/tree/master/1071-greatest-common-divisor-of-strings) |
 | [3875-construct-uniform-parity-array-i](https://github.com/mdwasim-github/DSA/tree/master/3875-construct-uniform-parity-array-i) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/mdwasim-github/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/mdwasim-github/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0300-longest-increasing-subsequence](https://github.com/mdwasim-github/DSA/tree/master/0300-longest-increasing-subsequence) |
+| [0367-valid-perfect-square](https://github.com/mdwasim-github/DSA/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/mdwasim-github/DSA/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/mdwasim-github/DSA/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/mdwasim-github/DSA/tree/master/1004-max-consecutive-ones-iii) |
