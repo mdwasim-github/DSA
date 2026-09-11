@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/mdwasim-github/DSA/tree/master/0997-find-the-town-judge) |
 | [1004-max-consecutive-ones-iii](https://github.com/mdwasim-github/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1528-shuffle-string](https://github.com/mdwasim-github/DSA/tree/master/1528-shuffle-string) |
+| [3483-unique-3-digit-even-numbers](https://github.com/mdwasim-github/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3875-construct-uniform-parity-array-i](https://github.com/mdwasim-github/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/mdwasim-github/DSA/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/mdwasim-github/DSA/tree/master/3903-smallest-stable-index-i) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/mdwasim-github/DSA/tree/master/0141-linked-list-cycle) |
 | [0205-isomorphic-strings](https://github.com/mdwasim-github/DSA/tree/master/0205-isomorphic-strings) |
 | [0997-find-the-town-judge](https://github.com/mdwasim-github/DSA/tree/master/0997-find-the-town-judge) |
+| [3483-unique-3-digit-even-numbers](https://github.com/mdwasim-github/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Stack
 |  |
 | ------- |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/mdwasim-github/DSA/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/mdwasim-github/DSA/tree/master/0143-reorder-list) |
 | [0509-fibonacci-number](https://github.com/mdwasim-github/DSA/tree/master/0509-fibonacci-number) |
+| [3483-unique-3-digit-even-numbers](https://github.com/mdwasim-github/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -395,4 +398,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/mdwasim-github/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0334-increasing-triplet-subsequence](https://github.com/mdwasim-github/DSA/tree/master/0334-increasing-triplet-subsequence) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/mdwasim-github/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
