@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/mdwasim-github/DSA/tree/master/0997-find-the-town-judge) |
 | [1004-max-consecutive-ones-iii](https://github.com/mdwasim-github/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1528-shuffle-string](https://github.com/mdwasim-github/DSA/tree/master/1528-shuffle-string) |
+| [1732-find-the-highest-altitude](https://github.com/mdwasim-github/DSA/tree/master/1732-find-the-highest-altitude) |
 | [3483-unique-3-digit-even-numbers](https://github.com/mdwasim-github/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3875-construct-uniform-parity-array-i](https://github.com/mdwasim-github/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/mdwasim-github/DSA/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/mdwasim-github/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/mdwasim-github/DSA/tree/master/0238-product-of-array-except-self) |
 | [1004-max-consecutive-ones-iii](https://github.com/mdwasim-github/DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1732-find-the-highest-altitude](https://github.com/mdwasim-github/DSA/tree/master/1732-find-the-highest-altitude) |
 | [3903-smallest-stable-index-i](https://github.com/mdwasim-github/DSA/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/mdwasim-github/DSA/tree/master/3904-smallest-stable-index-ii) |
 ## Backtracking
