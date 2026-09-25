@@ -16,14 +16,11 @@ class Solution {
         for (int i = 0; i < n; i++) {
             head = head.next;
         }
-
         while (head != null) {
             head = head.next;
             dummy = dummy.next;
         }
-
         dummy.next = dummy.next.next;
-
         return res.next;        
     }
 }
