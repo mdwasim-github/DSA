@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/mdwasim-github/DSA/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/mdwasim-github/DSA/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/mdwasim-github/DSA/tree/master/0189-rotate-array) |
+| [0342-power-of-four](https://github.com/mdwasim-github/DSA/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/mdwasim-github/DSA/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/mdwasim-github/DSA/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/mdwasim-github/DSA/tree/master/0836-rectangle-overlap) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/mdwasim-github/DSA/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/mdwasim-github/DSA/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/mdwasim-github/DSA/tree/master/0143-reorder-list) |
+| [0342-power-of-four](https://github.com/mdwasim-github/DSA/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/mdwasim-github/DSA/tree/master/0509-fibonacci-number) |
 | [3483-unique-3-digit-even-numbers](https://github.com/mdwasim-github/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Floyd's Cycle Finding Algorithm
@@ -408,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/mdwasim-github/DSA/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/mdwasim-github/DSA/tree/master/0191-number-of-1-bits) |
 | [0338-counting-bits](https://github.com/mdwasim-github/DSA/tree/master/0338-counting-bits) |
+| [0342-power-of-four](https://github.com/mdwasim-github/DSA/tree/master/0342-power-of-four) |
 ## Memoization
 |  |
 | ------- |
