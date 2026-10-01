@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/mdwasim-github/DSA/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/mdwasim-github/DSA/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/mdwasim-github/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/mdwasim-github/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/mdwasim-github/DSA/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/mdwasim-github/DSA/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/mdwasim-github/DSA/tree/master/0091-decode-ways) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/mdwasim-github/DSA/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/mdwasim-github/DSA/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/mdwasim-github/DSA/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/mdwasim-github/DSA/tree/master/0144-binary-tree-preorder-traversal) |
@@ -426,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/mdwasim-github/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/mdwasim-github/DSA/tree/master/0022-generate-parentheses) |
 ## Bubble Sort
 |  |
