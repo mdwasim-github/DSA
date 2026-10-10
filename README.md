@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/mdwasim-github/DSA/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/mdwasim-github/DSA/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/mdwasim-github/DSA/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/mdwasim-github/DSA/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/mdwasim-github/DSA/tree/master/0091-decode-ways) |
 | [0118-pascals-triangle](https://github.com/mdwasim-github/DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/mdwasim-github/DSA/tree/master/0119-pascals-triangle-ii) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/mdwasim-github/DSA/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/mdwasim-github/DSA/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/mdwasim-github/DSA/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/mdwasim-github/DSA/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/mdwasim-github/DSA/tree/master/0189-rotate-array) |
 | [0342-power-of-four](https://github.com/mdwasim-github/DSA/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/mdwasim-github/DSA/tree/master/0367-valid-perfect-square) |
@@ -427,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/mdwasim-github/DSA/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/mdwasim-github/DSA/tree/master/0509-fibonacci-number) |
 ## Knapsack Problem
 |  |
