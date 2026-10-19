@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/mdwasim-github/DSA/tree/master/1528-shuffle-string) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/mdwasim-github/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/mdwasim-github/DSA/tree/master/1732-find-the-highest-altitude) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/mdwasim-github/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/mdwasim-github/DSA/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/mdwasim-github/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/mdwasim-github/DSA/tree/master/3483-unique-3-digit-even-numbers) |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/mdwasim-github/DSA/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/mdwasim-github/DSA/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/mdwasim-github/DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/mdwasim-github/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Binary Lifting
 |  |
 | ------- |
@@ -368,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/mdwasim-github/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0912-sort-an-array](https://github.com/mdwasim-github/DSA/tree/master/0912-sort-an-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/mdwasim-github/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/mdwasim-github/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
