@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/mdwasim-github/DSA/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/mdwasim-github/DSA/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/mdwasim-github/DSA/tree/master/0079-word-search) |
+| [0088-merge-sorted-array](https://github.com/mdwasim-github/DSA/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/mdwasim-github/DSA/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/mdwasim-github/DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/mdwasim-github/DSA/tree/master/0119-pascals-triangle-ii) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/mdwasim-github/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/mdwasim-github/DSA/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/mdwasim-github/DSA/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/mdwasim-github/DSA/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/mdwasim-github/DSA/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/mdwasim-github/DSA/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mdwasim-github/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -369,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/mdwasim-github/DSA/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/mdwasim-github/DSA/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/mdwasim-github/DSA/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/mdwasim-github/DSA/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/mdwasim-github/DSA/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mdwasim-github/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0435-non-overlapping-intervals](https://github.com/mdwasim-github/DSA/tree/master/0435-non-overlapping-intervals) |
